@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.add-product {
+    display: flex;
+    width: max-content;
+}

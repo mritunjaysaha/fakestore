@@ -1,0 +1,15 @@
+.list_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    width: 40rem;
+
+    flex: 0 0 1;
+}
